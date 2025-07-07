@@ -162,7 +162,7 @@ export const DATA = {
     {
       title: "Smart Baby Incubator Monitoring System",
       href: "https://simsgf.netlify.app/",
-      dates: "Dec 2024",
+      dates: "Feb 2025",
       active: true,
       description:
         "Developed a real-time monitoring dashboard using ESP32 and 7+ sensors, enhancing infant safety by 40% through a cloud-connected system and mobile app that ensures 99% uptime and instant alerts for parents and doctors.",
