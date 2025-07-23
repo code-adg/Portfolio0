@@ -82,8 +82,8 @@ export const DATA = {
       location: "Remote",
       title: "Full Stack Developer Intern",
       logoUrl: "/gf.png",
-      start: "Dec 2024",
-      end: "Feb 2025",
+      start: "Oct 2024",
+      end: "Apr 2025",
       description:
         "Contributed to the development of an energy consumption dashboard for small to medium-scale industries, improving energy monitoring efficiency by 75% through digitalization and reducing energy overuse penalties by 85% with a real-time alerting system.",
     },
