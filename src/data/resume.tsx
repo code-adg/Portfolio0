@@ -18,6 +18,8 @@ export const DATA = {
     "Typescript",
     "Node.js",
     "Python",
+    "GoLang",
+    "Django",
     "Mongo DB",
     "Postgres",
     "Tailwind CSS",
