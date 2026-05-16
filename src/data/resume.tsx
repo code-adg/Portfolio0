@@ -2,7 +2,7 @@ import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon, FileText } from "lucide-react";
 
 export const DATA = {
-  name: "Dinesh Gupta Ayetha",
+  name: "Dinesh Ayetha",
   initials: "ADG",
   url: "https://www.linkedin.com/in/dinesh-ayetha/",
   location: "Vijayawada, AP",
@@ -18,19 +18,18 @@ export const DATA = {
     "Typescript",
     "Node.js",
     "Python",
-    "GoLang",
-    "Django",
     "Mongo DB",
     "Postgres",
     "Tailwind CSS",
     "SQL",
     "Firebase",
-    "AWS EC2",
     "Visio",
     "Playwright",
     "Express.js",
-    "PlayWright",
     "Selenium",
+    ".NET",
+    "JUnit",
+    "TestNG"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -77,6 +76,18 @@ export const DATA = {
   },
 
   work: [
+    {
+      company: "Qentelli",
+      href: "https://qstaging.qentelli.com/",
+      badges: [],
+      location: "On-Site",
+      title: "Trainee Software Engineer",
+      logoUrl: "./qentelli.png",
+      start: "Feb 2026",
+      end: "Jul 2026",
+      description:
+        "Worked on .NET applications, SQL Server Express databases, and React-based frontend development. Developed and executed automation testing solutions using Selenium WebDriver with Java, TestNG, and JUnit.",
+    },
     {
       company: "Green Fusion IoT Solutions",
       href: "https://gfiotsolutions.netlify.app/",
